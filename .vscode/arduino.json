@@ -2,5 +2,5 @@
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "Love-O-Meter\\Temperature\\Temperature.ino"
+    "sketch": "Color Mixing Lamp\\Changing Colours\\Colour_Revolution.ino"
 }
