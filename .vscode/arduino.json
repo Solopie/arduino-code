@@ -2,5 +2,5 @@
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "Color Mixing Lamp\\Changing Colours\\Colour_Revolution.ino"
+    "sketch": "Mood Cue\\servo.ino"
 }
