@@ -2,5 +2,5 @@
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "Mood Cue\\servo.ino"
+    "sketch": "Light Theremin\\theremin.ino"
 }
