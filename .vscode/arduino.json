@@ -2,5 +2,5 @@
     "programmer": "AVR ISP",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "Light Theremin\\theremin.ino"
+    "sketch": "Keyboard Instrument\\keyboard.ino"
 }
